@@ -1,5 +1,3 @@
-# AMAZON CLONE
-
 Hi! I'm Ankita D., a **MERN Stack Developer**. This is a clone of popular e-commmerce website **Amazon**.
 I have created it with **React** in frontend,  **Node and Express** for backend and **MongoDB** for storing data.
 <br>
